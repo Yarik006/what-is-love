@@ -5,7 +5,7 @@ app=QApplication([])
 win=QWidget()
 
 win.resize(500,500)
-win.setWindowTitle('WHAT IS LOVRE')
+win.setWindowTitle('WHAT IS LOVE')
 
 title=QLabel('What is love, baby dont hurt me No more Baby, dont hurt me, dont hurt me No more')
 
